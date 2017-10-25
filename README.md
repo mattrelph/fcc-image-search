@@ -1,7 +1,7 @@
 # fcc-image-search
 # Free Code Camp - Image Search Abstraction Layer
 
-API that fufills these user stories:
+API that fulfills these user stories:
 
 1. I can get the image URLs, alt text and page urls for a set of images relating to a given search string.
 

@@ -3,8 +3,7 @@
   "version": "1.0.0",
   "dependencies": {
     "express": "^4.16.2",
-    "mongodb": "^2.2.33",
-    "requestify": "^0.2.5"
+    "mongodb": "^2.2.33"
   },
   "main": "server.js",
   "scripts": {
